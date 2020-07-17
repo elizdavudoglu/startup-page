@@ -1,0 +1,13 @@
+.btn-orange {
+	background-color: #ff5722;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+}
+
+.btn-orange:hover {
+	background-color: white;
+	color: #ff5722;
+}

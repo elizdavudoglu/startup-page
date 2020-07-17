@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&family=Lora&family=Nunito+Sans&family=Rock+Salt&display=swap");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+		css rules: font-family: 'Dancing Script', cursive;
+		font-family: 'Lato', sans-serif;
+		font-family: 'Lora', serif;
+		font-family: 'Nunito Sans', sans-serif;
+		font-family: 'Rock Salt', cursive;
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+
+}
+

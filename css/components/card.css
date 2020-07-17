@@ -1,0 +1,28 @@
+.card {
+	background: white;
+	margin: 40px;
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+}
+
+.card-content {
+	display: list-item;
+	list-style: none;
+	padding: 20px;
+
+}
+
+.card h2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+}
+
+.card img {
+	width: 150px;
+	height: auto;
+	border-radius: 4px;
+}
